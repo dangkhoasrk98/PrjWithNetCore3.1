@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop\\eShop.csproj": {}
+    "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop.Data\\eShop.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop\\eShop.csproj": {
+    "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop.Data\\eShop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop\\eShop.csproj",
-        "projectName": "eShop",
-        "projectPath": "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop\\eShop.csproj",
+        "projectUniqueName": "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop.Data\\eShop.Data.csproj",
+        "projectName": "eShop.Data",
+        "projectPath": "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop.Data\\eShop.Data.csproj",
         "packagesPath": "C:\\Users\\DANGKHOA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop\\obj\\",
+        "outputPath": "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,24 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.24, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.24, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.24, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,9 +72,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
