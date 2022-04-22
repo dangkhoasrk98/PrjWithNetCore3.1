@@ -1,0 +1,13 @@
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.AssemblyInfoInputs.cache
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.AssemblyInfo.cs
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.deps.json
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.runtimeconfig.json
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.runtimeconfig.dev.json
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.dll
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.pdb
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.dll
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.pdb
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.genruntimeconfig.cache
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.csproj.AssemblyReference.cache

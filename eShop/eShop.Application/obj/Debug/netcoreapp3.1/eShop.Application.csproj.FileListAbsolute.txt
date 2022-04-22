@@ -1,0 +1,10 @@
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Application\bin\Debug\netcoreapp3.1\eShop.Application.deps.json
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Application\bin\Debug\netcoreapp3.1\eShop.Application.dll
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Application\bin\Debug\netcoreapp3.1\eShop.Application.pdb
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.csproj.AssemblyReference.cache
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.AssemblyInfoInputs.cache
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.AssemblyInfo.cs
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.dll
+C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop.Application\obj\Debug\netcoreapp3.1\eShop.Application.pdb

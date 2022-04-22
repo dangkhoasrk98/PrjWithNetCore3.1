@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop.Data\\eShop.Data.csproj": {}
+    "C:\\Users\\DANGKHOA\\Desktop\\New folder\\PrjWithNetCore3.1\\eShop\\eShop.Data\\eShop.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop.Data\\eShop.Data.csproj": {
+    "C:\\Users\\DANGKHOA\\Desktop\\New folder\\PrjWithNetCore3.1\\eShop\\eShop.Data\\eShop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop.Data\\eShop.Data.csproj",
+        "projectUniqueName": "C:\\Users\\DANGKHOA\\Desktop\\New folder\\PrjWithNetCore3.1\\eShop\\eShop.Data\\eShop.Data.csproj",
         "projectName": "eShop.Data",
-        "projectPath": "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop.Data\\eShop.Data.csproj",
+        "projectPath": "C:\\Users\\DANGKHOA\\Desktop\\New folder\\PrjWithNetCore3.1\\eShop\\eShop.Data\\eShop.Data.csproj",
         "packagesPath": "C:\\Users\\DANGKHOA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DANGKHOA\\Desktop\\netcore\\PrjWithNetCore3.1\\eShop\\eShop.Data\\obj\\",
+        "outputPath": "C:\\Users\\DANGKHOA\\Desktop\\New folder\\PrjWithNetCore3.1\\eShop\\eShop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,6 +57,18 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.24, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.24, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.24, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
               "version": "[3.1.24, )"
             }
