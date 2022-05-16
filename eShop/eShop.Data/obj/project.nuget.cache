@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "OjNfYPM5+Jz85/kOQ84nyR1wZUnyT9gjVtx/GgB1sgVyv01xShGRXS5GAcKGh3byTzzlGSfKALcw60uFUu+9hA==",
+  "dgSpecHash": "/dEnz529AWeVu6YXTsEFGvkxvLbd0EuFZmuqQTY0BZ3LvqF2qFnyV7HP98nLBSvybPGOx1TyrtAp1LkTOASqVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DANGKHOA\\Desktop\\New folder\\PrjWithNetCore3.1\\eShop\\eShop.Data\\eShop.Data.csproj",
+  "projectFilePath": "C:\\Users\\DANGKHOA\\Desktop\\NetCore\\PrjWithNetCore3.1\\eShop\\eShop.Data\\eShop.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DANGKHOA\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.24\\microsoft.aspnetcore.cryptography.internal.3.1.24.nupkg.sha512",
     "C:\\Users\\DANGKHOA\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.24\\microsoft.aspnetcore.cryptography.keyderivation.3.1.24.nupkg.sha512",
+    "C:\\Users\\DANGKHOA\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.24\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.24.nupkg.sha512",
     "C:\\Users\\DANGKHOA\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\DANGKHOA\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\DANGKHOA\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

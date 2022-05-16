@@ -36,3 +36,41 @@ C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop\obj\Debug\net
 C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.genruntimeconfig.cache
 C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.csproj.CopyComplete
 C:\Users\DANGKHOA\Desktop\New folder\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.csproj.AssemblyReference.cache
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\bin\Debug\netcoreapp3.1\eShop.exe
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\bin\Debug\netcoreapp3.1\eShop.deps.json
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\bin\Debug\netcoreapp3.1\eShop.runtimeconfig.json
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\bin\Debug\netcoreapp3.1\eShop.runtimeconfig.dev.json
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\bin\Debug\netcoreapp3.1\eShop.dll
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\bin\Debug\netcoreapp3.1\eShop.pdb
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\bin\Debug\netcoreapp3.1\eShop.Views.dll
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\bin\Debug\netcoreapp3.1\eShop.Views.pdb
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.csproj.AssemblyReference.cache
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.AssemblyInfoInputs.cache
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.AssemblyInfo.cs
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.csproj.CoreCompileInputs.cache
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.RazorAssemblyInfo.cache
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.RazorAssemblyInfo.cs
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\staticwebassets\eShop.StaticWebAssets.Manifest.cache
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\staticwebassets\eShop.StaticWebAssets.xml
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\eShop.styles.css
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.TagHelpers.input.cache
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.TagHelpers.output.cache
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.RazorCoreGenerate.cache
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.RazorTargetAssemblyInfo.cache
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.RazorTargetAssemblyInfo.cs
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.Views.pdb
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.dll
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.pdb
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.genruntimeconfig.cache
+C:\Users\DANGKHOA\Desktop\NetCore\PrjWithNetCore3.1\eShop\eShop\obj\Debug\netcoreapp3.1\eShop.csproj.CopyComplete

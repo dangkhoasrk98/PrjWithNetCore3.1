@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xehH4ZpzIexphfg7cg86qYGjXX3fPc9rnLDqrzYw5caiZCHswkby8ztH5xyKvWTwU3yZAzBdPnjdv+I115e/1w==",
+  "dgSpecHash": "stQGwtVa/gatHrSoZYEBGf2A5XsjoEUE28HrAbf4LhCCzYox80pJoYafctXGk/MCpLDmKCpoCgdBOW8bKTz0xA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DANGKHOA\\Desktop\\New folder\\PrjWithNetCore3.1\\eShop\\eShop.Application\\eShop.Application.csproj",
+  "projectFilePath": "C:\\Users\\DANGKHOA\\Desktop\\NetCore\\PrjWithNetCore3.1\\eShop\\eShop.Application\\eShop.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
